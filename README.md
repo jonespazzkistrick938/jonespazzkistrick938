@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm jonespazzkistrick938
 
-<!--
-**jonespazzkistrick938/jonespazzkistrick938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎱 🚵 🏊 🛹 Exploring the world of devops 🎱 🚵 🏊 🛹
 
-Here are some ideas to get you started:
+## About Me
+🥊 🎽 🎽 🎳 A hacker in product management 🥊 🎽 🎽 🎳
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🏄 🌟 🎬 🎳 A nerd in technical writing 🏄 🌟 🎬 🎳
+
+### Fun Facts
+🎨 🎮 Always learning about algorithms 🎨 🎮
+
+---
+🎤 🏄 🏸 🎬 🛼 Thanks for visiting my profile! 🎪 🎬 🚴 🎰 🏄
